@@ -1,7 +1,7 @@
 Navigation Switch Breakout
 ==========================
 
-[![Navigation Switch](https://dlnmh9ip6v2uc.cloudfront.net/images/products/8/2/3/6/08236-2_i_ma.jpg)  
+[![Navigation Switch](https://cdn.sparkfun.com/assets/parts/7/2/4/08236-1.jpg)  
 *Surface Mount Navigation Switch Breakout (COM-08236)*](https://www.sparkfun.com/products/8236)
 
 This is a fully assembled simple breakout board for the surface mount 3-way switch. 
